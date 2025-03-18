@@ -1,0 +1,14 @@
+streamlit
+nltk
+numpy
+seaborn
+pandas
+matplotlib
+neattext
+scikit-learn
+joblib
+
+
+
+
+
